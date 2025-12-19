@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+*.log
+
+# Android/Gradle
+.gradle/
+local.properties
+**/build/
+**/.idea/
+*.iml
+
+# Yolov5
+runs/
+*.pt
