@@ -1,0 +1,4 @@
+서비스: https://minwooj02.pythonanywhere.com/admin/
+깃허브: https://github.com/minwoo-khu/FinalTerm
+
+서비스에서 https://minwooj02.pythonanywhere.com/api/waste에서 api 확인 가능합니다.  
